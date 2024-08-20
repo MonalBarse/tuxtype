@@ -65,6 +65,7 @@ X( RUN_SET_LANGUAGE ),\
 X( RUN_EDIT_WORDLIST ),\
 X( RUN_SET_BRAILLE_KEYS ),\
 X( RUN_PROJECT_INFO ),\
+X (RUN_TOGGLE_TTS),\
 X( N_OF_ACTIVITIES )  /* this one has to be the last one */
 
 

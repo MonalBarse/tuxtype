@@ -22,6 +22,7 @@
         <item title="Setup Language" sprite="tux_config" run="RUN_SET_LANGUAGE" desc="Set your language" />
         <item title="Edit Word Lists" sprite="list" run="RUN_EDIT_WORDLIST" desc="Add or remove words" />
         <item title="Setup Braille Keys" sprite="keyboard" run="RUN_SET_BRAILLE_KEYS" desc="Choose your own keys for representing braille dots" />
+        <item title="Toggle TTS" sprite="tts" run="RUN_TOGGLE_TTS" desc="Toggle text-to-speech" />
         <item title="Main Menu" sprite="main" run="RUN_MAIN_MENU" desc="Return to the main menu" />
     </menu>
     <item title="Project Info" sprite="alone" run="RUN_PROJECT_INFO" desc="See the project info" />
